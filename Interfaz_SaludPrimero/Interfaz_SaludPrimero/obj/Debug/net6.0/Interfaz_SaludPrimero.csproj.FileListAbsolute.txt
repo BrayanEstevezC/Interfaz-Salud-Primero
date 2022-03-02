@@ -1,0 +1,15 @@
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\bin\Debug\net6.0\Interfaz_SaludPrimero.exe
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\bin\Debug\net6.0\Interfaz_SaludPrimero.deps.json
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\bin\Debug\net6.0\Interfaz_SaludPrimero.runtimeconfig.json
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\bin\Debug\net6.0\Interfaz_SaludPrimero.dll
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\bin\Debug\net6.0\ref\Interfaz_SaludPrimero.dll
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\bin\Debug\net6.0\Interfaz_SaludPrimero.pdb
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.csproj.AssemblyReference.cache
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.AssemblyInfoInputs.cache
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.AssemblyInfo.cs
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.csproj.CoreCompileInputs.cache
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.dll
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\ref\Interfaz_SaludPrimero.dll
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.pdb
+C:\Users\Braya\source\repos\Interfaz_SaludPrimero\Interfaz_SaludPrimero\obj\Debug\net6.0\Interfaz_SaludPrimero.genruntimeconfig.cache
